@@ -9,7 +9,7 @@ public class SpringCoreDevOpsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
-		System.out.println("Should trigger jenkins build");
+		System.out.println("Should trigger jenkins build - again");
 
 	}
 }
